@@ -4,7 +4,7 @@
 
 # What the App do?
 
-1. Call an API from which a string with a random fact is obtained.
+1. Call an API from which you obtain a string with a random fact.
 2. The app separates the first three words from the obtained fact.
 3. Search for GIFs related to those three words.
 
