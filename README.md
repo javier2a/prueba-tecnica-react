@@ -1,6 +1,7 @@
 # React JS technical test
 
 * https://javier2a.github.io/prueba-tecnica-react/
+* https://elaborate-haupia-9e5984.netlify.app
 
 # What the App do?
 
